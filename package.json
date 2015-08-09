@@ -10,13 +10,15 @@
     "type": "git",
     "url": "https://github.com/kyouheifukuda/rikunabi_crom_node.git"
   },
-  "author": "",
+  "author": "kyouheifukuda",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/kyouheifukuda/rikunabi_crom_node/issues"
   },
   "homepage": "https://github.com/kyouheifukuda/rikunabi_crom_node",
   "dependencies": {
-    "cron": "^1.0.9"
+    "cron": "^1.0.9",
+    "request": "^2.60.0",
+    "xml2json": "^0.8.2"
   }
 }
